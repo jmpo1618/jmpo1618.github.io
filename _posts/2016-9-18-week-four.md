@@ -13,4 +13,4 @@ This is probably not in my way anymore, but Travis CI combined with GitHub class
 Early next week (or hopefully tonight) I plan to finish Netflix.
 
 ### Tip of the week:
-I would recommended that you learn how to use a scripting language if you do not know one yet. This can make your life as a CS student much more easy. For instance, now I cannot imagine using something like Java to perform simple tasks (e.g. generate chache files for this project), when I can use 5 lines of Python achieve the same results.
+I would recommended that you learn how to use a scripting language if you do not know one yet. This can make your life as a CS student much more easy. For instance, now I cannot imagine using something like Java to perform simple tasks (e.g. generate cache files for this project), when I can use 5 lines of Python achieve the same results.
