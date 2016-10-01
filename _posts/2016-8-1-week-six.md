@@ -13,4 +13,4 @@ Although I now thought of a general strategy to study for the test, doing that i
 Continue to study for the test this Thursday and obviously take it. Luckily that's all we have to do for the class and that gives me enough time.
 
 ### Tip of the week:
-In case you are working on the UTCS lab machines and for some unknown reason the computer you are working on freezes, don't submit a Shop Req immediately. Move to another machine, SSH to the one that froze and run 'killall -u your_username'. This will log you out and let you continue using the machine.
+In case you are working on the UTCS lab machines and for some unknown reason the computer you are working on freezes, don't submit a Shop Req immediately. Move to another machine, SSH to the one that froze and run `killall -u your_username`. This will log you out and let you continue using the machine.
