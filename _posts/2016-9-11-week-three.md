@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Week Three
+category: OOP
 ---
 
 ### What did I do this past week?
