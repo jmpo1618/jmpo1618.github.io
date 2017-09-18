@@ -5,7 +5,7 @@ category: SWE
 ---
 
 ### What did you do this past week?
-This past week was relatively relaxed, since I finished Collatz the week before. I did take my time to submit though; with all of the details required for this project, it is imperative to wait and see if people come up with problems that you might have had and hadn't noticed. Other than that, class is starting to get insightful. For instance, recently Professor Downing explained that Python `deque`s are middle-loaded arrays, while I used to think they were linked lists.
+This past week was relatively relaxed, since I finished Collatz the week before. I did take my time to submit though; with all of the details required for this project, it is imperative to wait and see if people come up with problems that you might have had and hadn't noticed. Other than that, class is starting to get insightful. ~~For instance, recently Professor Downing explained that Python deques are middle-loaded arrays, while I used to think they were linked lists.~~ (This seems to not be the case, given that the Python 3 documentation attributes O(n) time complexity to random access on `deque`s).
 
 ### What's in your way?
 Nothing tangible is on my way. Once again, the only thing that worries me is the possibility of having random groups for the remainder of the class. Especially now that I can see onsite interviews reducing my availability, scheduling time to work on projects with strangers is daunting.
